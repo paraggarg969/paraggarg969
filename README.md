@@ -110,7 +110,7 @@ AI-powered real-time parking slot detection using aerial/drone camera feeds
 - Enabled real-time availability dashboard and traffic flow optimization  
 - Processed live video streams with contour detection and zone mapping  
 **Tech Stack:** Python, OpenCV, NumPy, Matplotlib, Flask 
-- [GitHub Repository](https://github.com/yourusername/smart-parking-opencv) | Demo Video
+- [Demo Video](https://github.com/paraggarg969/car-parking-system/blob/main/parking%20system.mp4)
 
 ---
 
