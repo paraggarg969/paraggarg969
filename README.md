@@ -3,7 +3,7 @@
 
 <img align="right" src="https://img.freepik.com/premium-vector/cartoon-character-with-laptop-green-screen_863867-3871.jpg?semt=ais_se_enriched&w=740&q=80" width="200" alt="Parag Garg"/>
 
-**👨‍💻Backend Engineer • Team Lead • Full-Stack Developer**  
+**👨‍💻Backend Engineer • Team Lead • Software Developer**  
 **📚Currently Learning: AI Agents | AWS | System Design**
 
 <p align="left">
