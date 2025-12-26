@@ -6,14 +6,16 @@
 **👨‍💻Backend Engineer • Team Lead • Software Developer**  
 **📚Currently Learning: AI Agents | AWS | System Design**
 
+• 🎓Final-year BTech CSE student • 🏅100% Merit Scholarship Holder • 🌍Building global-scale platforms
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF6F61?)](https://parag-garg-portfolio.vercel.app/)
+
 <p align="left">
   <a href="mailto:paraggarg969@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/parag-garg-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.github.com/paraggarg969/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://leetcode.com/u/paraggarg/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/></a>
 </p>
-
-• 🎓Final-year BTech CSE student • 🏅100% Merit Scholarship Holder • 🌍Building global-scale platforms
 
 ---
 
