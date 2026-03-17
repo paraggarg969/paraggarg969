@@ -121,9 +121,18 @@ AI-powered real-time parking slot detection using aerial/drone camera feeds
 
 **📘Role of Artificial Intelligence in Cyber-Physical Systems**  
 In: *AI in Cyber-Physical Systems*  
-• Co-author  
-<img src="https://img.shields.io/badge/Publisher-Springer_Nature_Switzerland_AG-009B77?style=flat-square&logo=springer&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Accepted_2025-28a745?style=flat-square" />
+👨‍💻 Co-author  
+<p align="left">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-09656-2_2">
+    <img src="https://img.shields.io/badge/🔍_Read_Full_Chapter-Springer_Link-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Publisher-Springer_Nature-009B77?style=for-the-badge&logo=springer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Publication_Year-2025-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Accepted-success?style=for-the-badge"/>
+</p>
 
 **👁️Retinal Imaging as a Surrogate Biomarker for Non-Invasive HbA1c Classification via Deep Learning**  
 **Garg, P.** et al. (2025)  
