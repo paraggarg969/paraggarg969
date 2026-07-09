@@ -62,7 +62,7 @@
 
 **⭐Team Lead & Backend Developer**  
 **🩸TransMed – Global Transfusion Medicine Platform**  
-*📆March 2025 – Present* | Serving 1,000+ users • 30+ countries  
+*📆March 2025 – Feb 2026 | Serving 1,000+ users • 30+ countries  
 
 🌍Live → [Transmed.Asia](https://transmedasia.org)
 - Led end-to-end backend development & team of developers for a live global healthcare platform using **Node.js, Express.js, MySQL, MongoDB**  
